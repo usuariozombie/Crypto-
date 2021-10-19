@@ -203,6 +203,8 @@ async def help(ctx):
     embed.add_field(name="/fiats", value="``The supported fiat list.``", inline=False)
     embed.add_field(name="/crypto", value="``The supported cryptocoin list.``", inline=False)
     embed.add_field(name="/price", value="``Real time price of every cryptocurrency.``", inline=False)
+    embed.add_field(name="/ualert", value="``Notifies you if a crypto price passes specified amount.``", inline=False)
+    embed.add_field(name="/dalert", value="``Notifies you if a crypto price falls below specified amount.``", inline=False)
     await ctx.send(embed=embed)
 
 @slash.slash(name="price", description="``Real time price of every cryptocurrency.``", guild_ids=guild_ids)
