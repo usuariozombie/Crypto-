@@ -27,4 +27,8 @@ pip install discord-py-slash-command
 <p align="center">Slash commands supported, default prefix = $</p>
 
 ## <p align="center">Updates</p>
+<p align="center">-Prefix support added</p>
+<p align="center">-Price alerts added</p>
+
+
 <p align="center">If you have any question or error, contact me, I will be updating the bot in the future.</p>
