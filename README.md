@@ -24,7 +24,7 @@ pip install discord-py-slash-command
   <img src="https://media.discordapp.net/attachments/865721237774925834/889941419475742741/Untitled.gif" />
 </p>
 
-<p align="center">(Only slash commands supported)</p>
+<p align="center">Slash commands supported, default prefix = $</p>
 
 ## <p align="center">Updates</p>
 <p align="center">If you have any question or error, contact me, I will be updating the bot in the future.</p>
