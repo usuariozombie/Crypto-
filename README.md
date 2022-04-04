@@ -7,7 +7,7 @@
 
 ## <p align="center">Requirements</p>
 
-<p align="justify">You will need [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/) to run the bot, you will also have to install some modules like:</p>
+You will need [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/) to run the bot, you will also have to install some modules like:
 
 ```bash
 pip install discord
